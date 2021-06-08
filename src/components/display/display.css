@@ -1,0 +1,9 @@
+.display-wrapper{
+    display: inline-flex;
+    margin: 60px auto;
+}
+
+.display-wrapper span{
+    font-size: 35px;
+    color: white;
+}

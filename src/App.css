@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.stopwatch{
+  margin-top: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 40px;
+  width: 500px;
+  height: 500px;
+  border-radius: 100%;
+  border: 1px solid aqua;
+  background-color: #61dafb;
+}
+
+.buttons-wrapper{
+  display: inline-flex;
+  width: 280px;
+  justify-content: space-between;
+}
+
+

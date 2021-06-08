@@ -1,0 +1,11 @@
+.btn{
+    padding: 10px 15px;
+    border-radius: 99999px;
+    border: none;
+    cursor: pointer;
+    transition-duration: .4s;
+}
+
+.btn:hover{
+    background-color: white;
+}
